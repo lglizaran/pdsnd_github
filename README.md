@@ -2,7 +2,7 @@
 02/12/2018
 
 ### Project Title
-Bikeshare
+Bikeshare project
 
 ### Description
 Provides statistical information about the bikeshare service in chicago, new york or washington
