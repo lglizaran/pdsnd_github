@@ -5,7 +5,7 @@
 Bikeshare project
 
 ### Description
-Provides statistical information about the bikeshare service in chicago, new york or washington
+Provides statistical information about the bikeshare service in chicago, new york or washington or all
 
 ### Files used
 chicago.csv
