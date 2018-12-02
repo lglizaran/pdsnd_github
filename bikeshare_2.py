@@ -151,7 +151,6 @@ def user_stats(df,city):
     """Displays statistics on bikeshare users."""
 
     print('\nCalculating User Stats...\n')
-    start_time = time.time()
 
     # Display counts of user types
     print('Count of User Types:')
@@ -172,7 +171,6 @@ def user_stats(df,city):
     else:
         print('Washington dataset data does not include Birth Year')
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 def raw_data(df):
